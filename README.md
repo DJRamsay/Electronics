@@ -3,5 +3,5 @@ My goal with these projects is to develop an understanding of electronics, embed
 
 ## Progress
 - [x] Interface with components via Arduino
-- [ ] Interface with components with ESP32
+- [ ] Interface with components via ESP32
 - [ ] IoT Project 1 (Water tank monitor) 
